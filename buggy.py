@@ -11,3 +11,7 @@ def find_user(users, user_id):
 
 dbpassword = "123"
 apikey = "gvhxdfcgvhbjjk"
+
+def getsum(users,):
+    for u in users:
+        
